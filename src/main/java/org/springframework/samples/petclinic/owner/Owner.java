@@ -47,7 +47,7 @@ import org.springframework.samples.petclinic.model.Person;
 public class Owner extends Person {
 
 	/**
-	 *
+	 * testing ssh 
 	 */
 	private static final long serialVersionUID = 1L;
 
